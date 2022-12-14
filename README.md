@@ -14,5 +14,5 @@ Here are some ideas to get you started:
  - 💬 Ask me about MERN ,Design,Ideas,New Project, Innovation,Cool Features
 - 📫 How to reach me: India ,ahmad.nishu08@gamil.com
 - 😄 Pronouns: Md Nishu Ahmad
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am Cool
 
