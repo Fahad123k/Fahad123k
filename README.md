@@ -21,8 +21,9 @@
    <img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" alt="let's play code" height="30" />
    </a>
 <a href="https://www.hackerrank.com/ahmad_nishu08" target="blank">
-   <img align="center" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="ahmad_nishu08" height="25" /></a>
+   <img align="center" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="ahmad_nishu08" height="20" /></a>
    
+   <br>
 <a href="https://www.leetcode.com/fahad123k" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="fahad123k" height="35" /></a>
 </p>
 
