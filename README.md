@@ -42,6 +42,37 @@
         </a>
    
    
+       <!-- c -->
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn-icons-png.flaticon.com/512/3103/3103956.png" alt="c" width="40" height="40" />
+        </a>
+        <!-- js -->
+        <a href="https://www.JavaScript.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" alt="c" width="40" height="40" />
+        </a>
+        <!-- html5 -->
+        <a href="https://www.html5com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="c" width="40" height="40" />
+        </a>
+        <!-- css -->
+        <a href="https://www.css3com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="c" width="40" height="40" />
+        </a>
+        <a href="https://www.reactjs.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="c" width="40" height="40" />
+        </a>
+        <a href="https://www.nodejs.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="c" width="40" height="40" />
+        </a>
+        <a href="https://www.sql.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" alt="c" width="40" height="40" />
+        </a>
+        <a href="https://www.mongo.com/" target="_blank" rel="noreferrer">
+            <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress"
+                alt="c" height="40" />
+        </a>
+   
+   
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahad123k&show_icons=true&locale=en&layout=compact" alt="fahad123k" /></p>
