@@ -42,19 +42,19 @@
         </a>
    
    
-       <!-- c -->
+
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn-icons-png.flaticon.com/512/3103/3103956.png" alt="c" width="40" height="40" />
         </a>
-        <!-- js -->
+  
         <a href="https://www.JavaScript.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" alt="c" width="40" height="40" />
         </a>
-        <!-- html5 -->
+    
         <a href="https://www.html5com/" target="_blank" rel="noreferrer">
             <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="c" width="40" height="40" />
         </a>
-        <!-- css -->
+       
         <a href="https://www.css3com/" target="_blank" rel="noreferrer">
             <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="c" width="40" height="40" />
         </a>
