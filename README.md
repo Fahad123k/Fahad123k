@@ -41,20 +41,7 @@
                 alt="bootstrap" width="40" height="40" />
         </a>
    
-     <ul>
-            <li><i class="fab fa-html5"></i></li>
-            <li>css</li>
-            <li>JavaScript</li>
-            <li>Java</li>
-            <li>DSA</li>
-            <li>Reactjs</li>
-            <li>NodeJS</li>
-            <li>Express</li>
-            <li>MongoDb</li>
-            <li>sql</li>
 
-        </ul>
-   
    
    
 </p>
