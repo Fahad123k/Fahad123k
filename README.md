@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/let's play code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="let's play code" height="30" width="40" /></a>
+<a href="https://www.youtube.com/results?search_query=lets+play+code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="let's play code" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ahmad_nishu08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmad_nishu08" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/fahad123k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fahad123k" height="30" width="40" /></a>
 </p>
