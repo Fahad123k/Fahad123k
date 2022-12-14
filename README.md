@@ -42,11 +42,6 @@
         </a>
    
    
-
-        <!-- js -->
-        <a href="https://www.JavaScript.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" alt="c" width="40" height="40" />
-        </a>
    
 </p>
 
