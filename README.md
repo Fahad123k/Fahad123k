@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently looking opportunity with **Product Based Company**
 
-- 🌱 I’m currently learning **MERN Stack Developer at Coding Ninjas**
+- 🌱 I’m currently Working **Full Stack Developer At Samarth eGov**
 
 - 💬 Ask me about **MERN ,Design,Ideas,New Project, Innovation,Cool Features**
 
